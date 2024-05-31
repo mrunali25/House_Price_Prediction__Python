@@ -1,7 +1,7 @@
 # House Price Prediction - Data Analysis & Machine Learning
 ![image](https://github.com/mrunali25/House_Price_Prediction__Python/assets/69971933/c68d6fa2-7ce1-4519-9ad6-a03ad2a01415)
 
-## description ppt link - https://www.canva.com/design/DAF1LuISxGc/XzavIuaLS9840Uptxy6L0Q/edit?utm_content=DAF1LuISxGc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## description ppt link - [https://www.canva.com/design/DAF1LuISxGc/XzavIuaLS9840Uptxy6L0Q/edit?utm_content=DAF1LuISxGc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF1LuISxGc/fnbMg1eM7Nmp-A548h-nyg/view?utm_content=DAF1LuISxGc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 This project delves into house price prediction using real estate data. It showcases my proficiency in data analysis and machine learning techniques gained through college coursework.
 
